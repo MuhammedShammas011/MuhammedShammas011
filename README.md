@@ -1,4 +1,5 @@
-                                                      		         #  HI 👋 I'm Muhammed Shammas.
+<h1 align="center">Hi 👋, I'm Muhammed Shammas</h1>
+<h3 align="center">A self taught FullStack developer</h3>
   
   # 💫 About Me:
 🔭 I’m currently working as a FullStack developer<br>🎨i'm also experienced in graphic designing<br>🌱 I’m currently learning .Net core<br> 
