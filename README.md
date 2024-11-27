@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shammas</h1>
-<h3 align="center">A self taught FullStack developer</h3>
+<h4 align="center">I'm a self-taught Full Stack Developer passionate about building user-friendly, responsive, and scalable web applications. Proficient in technologies like HTML, CSS, JavaScript, React, and .NET, I enjoy crafting seamless user experiences while tackling backend challenges. Currently pursuing a BCA degree and sharpening my development skills, I thrive on solving problems and constantly learning new tools and frameworks. Let's build something amazing together!</h4>
   
   # 💫 About Me:
 🔭 I’m currently working as a FullStack developer<br>🎨i'm also experienced in graphic designing<br>🌱 I’m currently learning .Net core<br> 
